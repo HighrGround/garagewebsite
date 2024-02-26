@@ -149,3 +149,12 @@ button {
 button:hover {
     background-color: grey; /* Change color on hover */
 }
+
+.invimg{
+    align-content: left;
+}
+
+
+.invtitle {
+    padding-right:  40px;
+}
