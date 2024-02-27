@@ -158,3 +158,18 @@ button:hover {
 .invtitle {
     padding-right:  40px;
 }
+
+a {
+    text-decoration: none;
+    color: inherit; /* Inherit the color from the surrounding text */
+}
+
+a {
+    color: #333; /* Set a specific color */
+    text-decoration: none; /* Remove underline */
+    transition: color 0.3s ease-in-out; /* Add a smooth color transition on hover */
+}
+
+a:hover {
+    color: grey; /* Change color on hover */
+}
